@@ -19,8 +19,8 @@ from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
 
 ARCHIVE_DOWNLOAD_URL = "https://github.com/goitacademy/NUMERICAL-PROGRAMMING-IN-PYTHON/blob/main/SpamEmailClassificationDataset.zip"
 DATA_FILE_NAME = "combined_data.csv"
-GITHUB_USERNAME = "ElinaSitailo"
-GITHUB_TOKEN = "Ghbdtn!2025"
+GITHUB_USERNAME = "..."
+GITHUB_TOKEN = "..."
 SPAM = "1"
 HAM = "0"
 
