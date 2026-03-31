@@ -7,7 +7,7 @@ import requests
 
 def validate_name(name):
     url = "https://nv.api.intsurfing.com/name-validator/validate"
-    headers = {"x-api-key": "B6D2T5gwwo51LyUSw8moz5e76poOQovk3jKt0hTW"}
+    headers = {"x-api-key": "...."}
     params = {"name": name}
     response = requests.get(url, headers=headers, params=params)
     if response.status_code == 200:
